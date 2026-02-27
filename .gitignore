@@ -1,0 +1,10 @@
+# Power BI files
+*.pbix
+*.pbit
+
+# Sensitive files
+data/*.csv
+*.xlsx
+*.xls
+*.json
+*.txt

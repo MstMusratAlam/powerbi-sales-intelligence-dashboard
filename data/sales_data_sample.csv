@@ -1,0 +1,11 @@
+SalesID,SalesAmount,SalesDate,Territory,Product,Category
+1,150.00,2026-02-27,North,Product A,Electronics
+2,200.50,2026-02-27,South,Product B,Furniture
+3,350.00,2026-02-27,East,Product C,Clothing
+4,120.00,2026-02-27,West,Product D,Grocery
+5,80.00,2026-02-27,North,Product E,Stationery
+6,210.75,2026-02-27,South,Product F,Electronics
+7,315.20,2026-02-27,East,Product G,Furniture
+8,145.60,2026-02-27,West,Product H,Clothing
+9,200.00,2026-02-27,North,Product I,Grocery
+10,175.30,2026-02-27,South,Product J,Stationery
